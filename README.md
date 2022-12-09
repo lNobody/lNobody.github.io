@@ -2,7 +2,7 @@
 
 ## Quién soy:
 
-Soy un apasionado del mundo que está en la otra parte de la pantalla del ordenador. Soy un joven apasionado de las películas, de los videojuegos y de las modas de Internet. Actualmente curso estudios de **programación**, especialmente 2do de ***DAW***  en IES *Severo Ochoa* con interes en prácticas que me ayuden en el crecimiento en este campo
+Soy un curioso del mundo que está en la otra parte de la pantalla del ordenador, un joven apasionado de las películas, de los videojuegos y de las modas de Internet. Actualmente curso estudios de **programación**, especialmente 2do de ***DAW***  en IES *Severo Ochoa* con interes en prácticas que me ayuden en el crecimiento en este campo
 
 ### Dónde encontrarme
 
