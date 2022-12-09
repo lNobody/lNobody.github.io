@@ -38,4 +38,4 @@ Información básica sobre mi:
 |Estoy dispuesto a incorporarme inmediatamente a vuestra empresa?||Actualmente **NO**, hasta junio de 2023 que habré terminado el curso
 
 ## Información adicional:
-Si te ha quedado alguna duda sobre mi trayectoria en el campo de la educación o mi trayectoria laboral, puedes ver mi [curriculum](lNobody.github.io/curriculum-samuel-escalante.pdf).
+Si te ha quedado alguna duda sobre mi trayectoria en el campo de la educación o mi trayectoria laboral, puedes ver mi [curriculum](https://lnobody.github.io/curriculum-samuel-escalante.pdf).
