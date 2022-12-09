@@ -10,10 +10,6 @@ Vivo en Elche, pero también suelo frecuentar Alicante.
 
 Puedes ponerte en contacto conmigo a través de mi correo [samuel-er-96@hotmail.com](mailto:samuel@hotmail.com)
 
-Os adjunto una foto mia por si me reconoceis por la calle
-<!-- EL alt es para que se identifique la imagen como tal-->
-![Foto sábado 3/11/2022](halloween-scary.gif)
-
 ## Lenguajes que he practicado: 
 
 <!--son 3 unos porque va aumentando automáticamente -->
