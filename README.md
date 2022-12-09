@@ -31,6 +31,7 @@ Los entornos de desarrollo con los que me he familiarizado son Visual Studio Cod
 Información básica sobre mi:
 
 |Pregunta| Si         | No
+|-----|------|-----
 |Tengo coche propio?| Más de tres años        |--
 |Me gusta trabajar en grupo?| Me encanta colaborar con gente para lograr que grandes proyectos salgan adelante         | --
 |Me gusta salir de fiesta?| Como a todos, pero prefiero los planes más tranquilos | --
